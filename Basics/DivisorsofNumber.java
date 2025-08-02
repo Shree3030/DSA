@@ -1,4 +1,5 @@
-class DivisorsofNumber {
+package DSA.Basics;
+public class DivisorsofNumber {
     public static void print_divisors(int n) {
       int[] arr = new int[(int)Math.sqrt(n)];
       int count = 0;
